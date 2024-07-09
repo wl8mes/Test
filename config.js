@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js' 
 
 global.owner = [
-  ['+966561841257', '𝚂𝚑𝚊𝚛𝚔𝚢᯽𝚂𝚊𝚖𝚊あ', false],
+  ['+212677235022', '𝚂𝚑𝚊𝚛𝚔𝚢᯽𝚂𝚊𝚖𝚊あ', false],
   ['+966540235070', '𝚂𝚑𝚊𝚛𝚔𝚢᯽𝚂𝚊𝚖𝚊あ', true],
   ['', '𝚂𝚑𝚊𝚛𝚔𝚢᯽𝚂𝚊𝚖𝚊あ', false],
   ['', '𝚂𝚑𝚊𝚛𝚔𝚢᯽𝚂𝚊𝚖𝚊あ', false],
